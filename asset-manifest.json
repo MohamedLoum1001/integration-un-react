@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/integration-un-react/static/css/main.70c7324f.css",
+    "main.js": "/integration-un-react/static/js/main.fd953b20.js",
+    "static/js/787.ba479d32.chunk.js": "/integration-un-react/static/js/787.ba479d32.chunk.js",
+    "static/media/pomme.png": "/integration-un-react/static/media/pomme.5d94f10b96de1014114a.png",
+    "static/media/orangeFruit.png": "/integration-un-react/static/media/orangeFruit.00f952ed3822cd80d86c.png",
+    "static/media/verre.png": "/integration-un-react/static/media/verre.cbd58ea8430aecc45fae.png",
+    "static/media/orangePM.png": "/integration-un-react/static/media/orangePM.70498591f0888f2cfa76.png",
+    "static/media/OrangeGM.png": "/integration-un-react/static/media/OrangeGM.0a6ff6146741950a512d.png",
+    "static/media/sucre.png": "/integration-un-react/static/media/sucre.25247adb86337099c4ac.png",
+    "static/media/bouteille.png": "/integration-un-react/static/media/bouteille.4f57c4161a1f3142d1b0.png",
+    "static/media/team2.jpg": "/integration-un-react/static/media/team2.eb238316604fbcd80bd2.jpg",
+    "static/media/team3.jpg": "/integration-un-react/static/media/team3.f24e496e0e312e3d2db5.jpg",
+    "static/media/rico.png": "/integration-un-react/static/media/rico.d0645c26f4aef5afee64.png",
+    "static/media/oeuf.png": "/integration-un-react/static/media/oeuf.0a28604031e4fdd6fa01.png",
+    "static/media/team1.jpg": "/integration-un-react/static/media/team1.5b9e1fc3dcc584f3e969.jpg",
+    "index.html": "/integration-un-react/index.html",
+    "main.70c7324f.css.map": "/integration-un-react/static/css/main.70c7324f.css.map",
+    "main.fd953b20.js.map": "/integration-un-react/static/js/main.fd953b20.js.map",
+    "787.ba479d32.chunk.js.map": "/integration-un-react/static/js/787.ba479d32.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70c7324f.css",
+    "static/js/main.fd953b20.js"
+  ]
+}
